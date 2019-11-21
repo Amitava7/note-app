@@ -1,1 +1,18 @@
-{"title":"my note","body":"you can do it"}
+[
+  {
+    "title": "buy",
+    "body": "groceries and medicines"
+  },
+  {
+    "title": "Task",
+    "body": "World domination"
+  },
+  {
+    "title": "Chores",
+    "body": "Gardening and cleaning car"
+  },
+  {
+    "title": "meeting",
+    "body": "Mike at 6, Jen at 9 "
+  }
+]
